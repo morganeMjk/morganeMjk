@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Morgane Majchrzak (but I think 'Morgane' is easier to remember) from Lille, France.
+### Hi there 👋 I'm Morgane Majchrzak (but I think _Morgane_ is easier to remember) from Lille, France.
 
 - 🔭 I’m currently working on NirvanaNectar
 - 🌱 I’m currently learning .Net
